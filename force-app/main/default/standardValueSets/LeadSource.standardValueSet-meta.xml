@@ -31,4 +31,9 @@
         <default>false</default>
         <label>ITM 2026 Berlin</label>
     </standardValue>
+    <standardValue>
+        <fullName>ITM 2025</fullName>
+        <default>false</default>
+        <label>ITM 2025</label>
+    </standardValue>
 </StandardValueSet>
